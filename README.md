@@ -1,1 +1,1 @@
-.ipynb file contains instructions and code required for the sea surface temperature and wind data. Kbrevis.csv is available to use right away. 
+.ipynb file contains instructions and code required for downloading sea surface temperature and wind data from the Copernicus Climate Data Store. Kbrevis.csv is available to use right away. 
